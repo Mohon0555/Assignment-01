@@ -54,7 +54,7 @@ h1{
     margin-top: 200px;
     background-color:rgb(245, 240, 240);
 }
-.LASTET-sec h2{
+h2{
     text-align: center;
    
 }
@@ -114,7 +114,8 @@ footer{
 
 }
 .Final-sec{
-    height: 500px;
+    height: 250px;
+    margin-top: 40px;
 }
 .Final-sec img{
     width: 100%;
